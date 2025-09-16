@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Parkir {
+public class perulangan {
     public static void main(String[] args) {
     char Kendaraan;
     int hari, parkir = 0 , Motor = 2000, Mobil = 5000;
